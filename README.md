@@ -1,7 +1,7 @@
 orpsoc-plus
 ===========
 
-The goal of this project is to provide more convenient functionalities from the original
+The goal of this project is to provide missing functionalities from the original
 ORPSoC(OpenRISC Reference Platform System-on-Chip).
 
 The features we provide are:

@@ -15,5 +15,5 @@ For now, we have jtag-uart working and talking with nios2-terminal.
 
 People  
 ======
-  * Elmar Uwe Kurt Melcher [Laboratório de Arquiteturas Dedicadas] (http://lad.dsc.ufpb.br)
-  * Isaac Maia Pessoa  [Isaac's Home] (http://cear.ufpb.br)
+  * Elmar Uwe Kurt Melcher (Federal University of Campina Grande) [Laboratório de Arquiteturas Dedicadas] (http://lad.dsc.ufpb.br)
+  * Isaac Maia Pessoa (Federal University of Paraíba)  [Isaac's Home] (http://cear.ufpb.br/~isaac)

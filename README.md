@@ -26,9 +26,6 @@ Setup
  * open nios2-terminal : You should see linux boot
 
 
-
-For now, we have jtag-uart working and talking with nios2-terminal.
-
 People  
 ======
   * Elmar Uwe Kurt Melcher

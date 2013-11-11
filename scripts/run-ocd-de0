@@ -1,0 +1,2 @@
+#!/bin/bash
+(cd ocd/de0_nano ; openocd -f altera-dev.cfg)

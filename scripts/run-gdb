@@ -1,0 +1,2 @@
+#!/bin/bash
+or32-linux-gdb  ../../linux/vmlinux --eval-command='target remote localhost:50001'

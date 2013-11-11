@@ -1,0 +1,9 @@
+#!/bin/bash
+
+#the full directory name of the script no matter where it is being called from
+SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+PRJ_ROOT_DIR=`(cd $SCRIPT_DIR/.. && pwd)`
+OR1K_ROOT_DIR=$PRJ_ROOT_DIR/..
+
+cp -r $PRJ_ROOT_DIR/patches/* $OR1K_ROOT_DIR
+cp -r $PRJ_ROOT_DIR/rtl/verilog/uart16550_jtag/* $OR1K_ROOT_DIR/orpsoc/rtl/verilog/uart16550

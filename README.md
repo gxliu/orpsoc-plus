@@ -12,7 +12,8 @@ Our first target is the board Terasic DE0-Nano(Altera's Cyclone IV FPGA)
 
 Setup
 =====
- * Download the repository
+ * Download orpsoc, linux and u-boot in a directory(eg. ~/openrisc)
+ * Download orpsoc-plus in the same dirlevel as orpsoc, linux, u-boot... ( ~/openrisc)
  * In the file  orpsoc/boards/altera/de0_nano/rtl/verilog/orpsoc_top/orpsoc_top.v
    (near to the line 1878) 
    replace the module name uart16550 
